@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a795b40ee5eccd24aa6ae18690b0df3e, type: 3}
+  m_Name: Third
+  m_EditorClassIdentifier: 
+  m_strName: 'The Healer: Elira Dawnveil'
+  m_strDescr: Elira is a healer, she inherited it from her inborn healers and she
+    can also perform heal by channel. For instance after the death of her brother
+    in a war, she was determined to build strength in order to work for the side
+    of life as opposed to allowing other people go through the same kind of hurt
+    that she was enduring. She set herself on a task as finding the old phoenix feather
+    which is capable of bringing the dead back to life.
+  m_spIco: {fileID: 5953454855221037168, guid: 941a6cd407300d94c89baf6fe46591a5, type: 3}
+  m_lvlAllLevel:
+  - {fileID: 11400000, guid: 2f886128f6ab1e249a71d01379140551, type: 2}
+  - {fileID: 11400000, guid: 6d1665ac6f218a14e8fdeda17e9c9f2a, type: 2}
+  - {fileID: 11400000, guid: 45a7bd7e9386455429ac7921ac9f36a4, type: 2}
+  - {fileID: 11400000, guid: 042bafc91b9ea664a930488fee13c1ac, type: 2}
+  - {fileID: 11400000, guid: ce5249993357f314eb8001f1b867f8e1, type: 2}
+  - {fileID: 11400000, guid: d65da3e0c66fd4e49bc83f0ee6f47a23, type: 2}
+  - {fileID: 11400000, guid: 849f054bbc7a8db44b7e788b217c9a0a, type: 2}
+  - {fileID: 11400000, guid: 1dabfbb9cb60972468a1bbad0fd9b5da, type: 2}
+  - {fileID: 11400000, guid: 7b6f3a9353aedb047bd8d5b519600387, type: 2}
+  - {fileID: 11400000, guid: 78d6f29eac976254baefb89e457106f4, type: 2}

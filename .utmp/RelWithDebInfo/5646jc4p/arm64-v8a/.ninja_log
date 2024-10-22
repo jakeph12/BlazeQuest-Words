@@ -1,0 +1,11 @@
+# ninja log v5
+51	441	7494251881984511	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	560300cff6616670
+442	883	7494251884676205	C:/Users/Jakeph12/BlazeQuest Words/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5646jc4p/obj/arm64-v8a/libswappywrapper.so	e73449a9bce2cc83
+33	1382	7494251891454669	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a295773f4521f53c
+7	1396	7494251891580380	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c4b5a020aa6c879a
+27	1430	7494251891998064	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2f71c8c87c61651f
+41	1504	7494251892742091	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ba772666a55d9bce
+1	1568	7494251893400220	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fc1db9e562a3337a
+19	1794	7494251895489585	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4497850e44497c49
+13	1841	7494251896168401	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3e6c1ca2dc4eccc9
+1841	1985	7494251897143170	C:/Users/Jakeph12/BlazeQuest Words/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5646jc4p/obj/arm64-v8a/libgame.so	293f9b99657d787a

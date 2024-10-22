@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a795b40ee5eccd24aa6ae18690b0df3e, type: 3}
+  m_Name: Second
+  m_EditorClassIdentifier: 
+  m_strName: 'The Mage: Seraphina Arcanis'
+  m_strDescr: Seraphina is a kind of main character who fits the mage kind character
+    who specializes in fire elemental affiliation. She becomes a magician while still
+    in childhood, she dominates the usage of the powers and ends up having a fatal
+    accident that kills her. In order to become the mistress of her powers she had
+    to learn how the Flameweavers the race of mighty magicians who could tame fire
+    with a single gesture of the finger perished.
+  m_spIco: {fileID: 7393359868924615684, guid: 941a6cd407300d94c89baf6fe46591a5, type: 3}
+  m_lvlAllLevel:
+  - {fileID: 11400000, guid: 0c296f81cc35f9d4fbb2b5f6b39aaeda, type: 2}
+  - {fileID: 11400000, guid: 90f1e1f44d59bd94ca40c867a1429dab, type: 2}
+  - {fileID: 11400000, guid: 435ab1f68d1d2c7498d13e3a4f892162, type: 2}
+  - {fileID: 11400000, guid: cedfe5195f00bd34eba370ff62b07f2c, type: 2}
+  - {fileID: 11400000, guid: 980b6e0de9ddf9e408da43c8b29e81c7, type: 2}
+  - {fileID: 11400000, guid: 349a9fe92b79c284785ca0ff913b2176, type: 2}
+  - {fileID: 11400000, guid: 5dcb9dc823572024484be3d3012cf1b3, type: 2}
+  - {fileID: 11400000, guid: 625e1f626b4458540897f9adb5ef24e3, type: 2}
+  - {fileID: 11400000, guid: b6781755092505249a1dcab155a3e956, type: 2}
+  - {fileID: 11400000, guid: 442de0b7957d21d42afb0761f42221c7, type: 2}

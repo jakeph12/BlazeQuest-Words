@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a795b40ee5eccd24aa6ae18690b0df3e, type: 3}
+  m_Name: First
+  m_EditorClassIdentifier: 
+  m_strName: ' The Warrior: Aric Flameheart'
+  m_strDescr: 'Aric is a military man who never used a gun and wants to alter it
+    by using the gun in the front line. Born in a small village he devoted all his
+    life to becoming a warrior with aim to defend his people from raiders and monsters.
+    He has a rather latent tendonical which he sprouts from time to time on his arms
+    that has a little glow in the dark as a symbol of the mystery and greatness stored
+    in his lineage. '
+  m_spIco: {fileID: 8351354048555132791, guid: 941a6cd407300d94c89baf6fe46591a5, type: 3}
+  m_lvlAllLevel:
+  - {fileID: 11400000, guid: 54f16d74d764be845ae9d331b71f8e5f, type: 2}
+  - {fileID: 11400000, guid: 6f11c7ef12d06a1409c03574beed6de0, type: 2}
+  - {fileID: 11400000, guid: 760e43a0146d7704086b66ce0a9f4546, type: 2}
+  - {fileID: 11400000, guid: 9518a48dadb09f144a21fbe9886c28fd, type: 2}
+  - {fileID: 11400000, guid: 4be938828a20b5441b8817940f033101, type: 2}
+  - {fileID: 11400000, guid: 8a5cb9a4bc6dd1f4e94899781459f363, type: 2}
+  - {fileID: 11400000, guid: 26b767252593a9e47a7bf0d56c885cc2, type: 2}
+  - {fileID: 11400000, guid: 4706c758ed344e040aa8a8ef7485041e, type: 2}
+  - {fileID: 11400000, guid: 29d7e54fb18dee941bb52b978cc4ebd9, type: 2}
+  - {fileID: 11400000, guid: a95a0ed6f99bc434e8b0651c57c451d0, type: 2}
